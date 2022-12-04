@@ -1,0 +1,5 @@
+#!name=paoIQ_DNS
+#!desc=Private DNS.
+
+[General]
+encrypted-dns-server = https://east.lele233.com/dns-query
